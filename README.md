@@ -14,7 +14,7 @@
 - ⚙️ 주요 기술: `C# (.NET Framework 4.8)`, `Vue 3`, `CodeIgniter4`, `Node.js`, `Redis`, `MySQL`
 - 🌱 학습 중: **AI 자동 매매, Stable Diffusion 영상 생성, WebSocket 실시간 처리**
 - 💬 관심사: **실시간 트레이딩, 대시보드 UI, 멀티 서버 통신, DevOps 자동화**
-- 📫 연락처: [📧 문의하기](mailto:your@email.com)
+- 📫 연락처: [📧 문의하기](mailto:moonjs01@email.com)
 
 ---
 
