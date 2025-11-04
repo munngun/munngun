@@ -1,10 +1,10 @@
 <!-- 프로필 README 시작 -->
 
-<h1 align="center">👋 안녕하세요, 문정식(Munngun) 입니다</h1>
+<h1 align="center">👋 안녕하세요</h1>
 
 <p align="center">
-  <b>💻 풀스택 개발자 | 🚀 트레이딩 시스템 & AI 자동화 개발자</b><br>
-  <i>실시간 데이터, 웹/앱 시스템, AI, 블록체인에 열정을 가지고 있습니다.</i>
+  <b>💻 풀스택 개발자 | 🚀 트레이딩 시스템 & AI 자동화 개발자 지원받습니다.</b><br>
+  <i>실시간 데이터, 웹/앱 시스템 및 국선 해선 차트 지원합니다..</i>
 </p>
 
 ---
@@ -14,7 +14,7 @@
 - ⚙️ 주요 기술: `C# (.NET Framework 4.8)`, `Vue 3`, `CodeIgniter4`, `Node.js`, `Redis`, `MySQL`
 - 🌱 학습 중: **AI 자동 매매, Stable Diffusion 영상 생성, WebSocket 실시간 처리**
 - 💬 관심사: **실시간 트레이딩, 대시보드 UI, 멀티 서버 통신, DevOps 자동화**
-- 📫 연락처: [📧 문의하기](mailto:moonjs01@email.com)
+- 📫 연락처: [📧 문의하기](mailto:moonjs01@buddy-buddy-trading.com)
 
 ---
 
